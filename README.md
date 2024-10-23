@@ -77,46 +77,7 @@ This dashboard presents a comprehensive analysis of unemployment trends across I
 This dashboard provides a powerful tool for understanding the economic impact of COVID-19 on unemployment in India. It offers a breakdown of key unemployment statistics by region, time, and area (urban vs rural). By analyzing this data, policymakers and researchers can better understand which regions and demographics were hit hardest and develop targeted recovery strategies.
 
 
-# 
 
-# TASK - 2 | Employee Salaries for Different Job Roles - Power BI Dashboard
 
-#### Project Overview:
-This Power BI dashboard presents an analysis of employee salaries across different job roles, experience levels, company sizes, and employment types. The data was transformed and cleaned to enhance insights, including adding full forms for country names, experience levels, and employment types.
 
-# Snapshot of Employee Salaries for Different Job Roles Dashboard ( Power BI)
-![EMPLOYEE SALARIES FOR DIFFERENT JOB ROLES  ](https://github.com/user-attachments/assets/0d24f6e0-dc3f-4535-9c8e-a65fe27e51e0)
 
-#### Key Metrics:
-- **Total Employees:** 607
-- **Total Salary:** $197M
-- **Highest Salary:** $30M
-- **Average Salary:** $324K
-- **Job Titles Analyzed:** 50
-- **Company Locations:** 50
-
-# Data Transformations:
-- **Country Names:** Added full names for employee residence countries (e.g., 'US' to 'United States').
-- **Experience Level:** Expanded abbreviations to full forms (e.g., 'EN' to 'Entry Level', 'MI' to 'Mid Level', 'SE' to 'Senior Level').
-- **Employment Type:** Converted short forms to full terms (e.g., 'FT' to 'Full Time', 'PT' to 'Part Time').
-- **Company Size:** Clarified company size categories ('L' to 'Large', 'M' to 'Medium', 'S' to 'Small') for easier understanding.
-
-#### Insights:
-- **Top Salaries by Job Role:** Data Scientists receive the highest total salary ($73M).
-- **Experience Level Distribution:** Senior employees account for 56.94% of total salaries, with entry-level at 7.96%.
-- **Salary Growth:** Average salary rose to $125K in 2022, showing steady growth.
-- **Company Size Impact:** Large companies contribute to 60% of the total salary, with small companies contributing 15%.
-- **Remote Work:** A significant majority (381 employees) work fully remotely.
-
-#### Recommendations:
-1. **Retain Senior-Level Talent:** Focus on retaining senior employees as they represent the majority of salary expenditure.
-2. **Expand Remote Work Policies:** Increase remote work opportunities to attract top talent.
-3. **Competitive Pay for Key Roles:** Ensure competitive salaries for roles like Data Scientist to maintain market competitiveness.
-
-#### Tools & Technologies Used:
-- **Power BI** for data visualization.
-- **CSV Dataset** with employee salary data.
-- **Data Transformation:** Country names, experience levels, employment types, and company sizes were expanded and clarified for better analysis.
-
-### Conclusion:
-This dashboard provides valuable insights into employee salary trends across various job roles and experience levels. By transforming and enhancing the data, organizations can make informed decisions to improve workforce planning and compensation strategies. Continued focus on retaining senior talent and adapting to market trends will be essential for future success.
