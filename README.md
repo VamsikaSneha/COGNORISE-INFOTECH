@@ -86,7 +86,7 @@ This dashboard provides a powerful tool for understanding the economic impact of
 This Power BI dashboard presents an analysis of employee salaries across different job roles, experience levels, company sizes, and employment types. The data was transformed and cleaned to enhance insights, including adding full forms for country names, experience levels, and employment types.
 
 # Snapshot of Employee Salaries for Different Job Roles Dashboard ( Power BI)
-![EMPLOYEE SALARIES FOR DIFFERENT JOB ROLES  ](https://github.com/user-attachments/assets/0d24f6e0-dc3f-4535-9c8e-a65fe27e51e0)
+![Screenshot 2024-10-23 185935](https://github.com/user-attachments/assets/17bf5da4-331b-4573-a80f-083af2e8ead0)
 
 #### Key Metrics:
 - **Total Employees:** 607
