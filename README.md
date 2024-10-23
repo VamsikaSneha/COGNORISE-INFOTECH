@@ -53,7 +53,6 @@ This dashboard presents a comprehensive analysis of unemployment trends across I
 # Filters
 
 - **Region**: Select from various Indian states and territories.
-- **Years (Date)**: Choose between the years 2019 and 2020.
 - **Months (Date)**: Filter data by months for detailed temporal analysis.
 - **Quarters (Date)**: Analyze data quarterly for a broader view of trends.
 - **Area**: Filter between urban and rural areas to study area-specific trends.
