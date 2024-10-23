@@ -25,7 +25,7 @@ This dashboard presents a comprehensive analysis of unemployment trends across I
    - **533.13 million** (approx).
 
 3. **Total Estimated Labor Participation**: 
-   - **31,546.29**.
+   - **42.630** (approx).
 
 ### Key Insights
 
