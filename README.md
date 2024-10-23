@@ -14,7 +14,7 @@ This dashboard presents a comprehensive analysis of unemployment trends across I
 
 
 # Snapshot of Unemployment During COVID-19 in India  Dashboard (EXCEL)
-![Unemployment During Covid -19 in India](https://github.com/user-attachments/assets/7c0ed1ee-2c11-4ad6-b0d0-63eb4a9cec32)
+![Screenshot 2024-10-23 125823](https://github.com/user-attachments/assets/58820b99-8102-43a8-a039-2314fe97e28f)
 
 ### Key Metrics
 
