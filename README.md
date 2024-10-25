@@ -122,6 +122,74 @@ This Power BI dashboard presents an analysis of employee salaries across differe
 ### Conclusion:
 This dashboard provides valuable insights into employee salary trends across various job roles and experience levels. By transforming and enhancing the data, organizations can make informed decisions to improve workforce planning and compensation strategies. Continued focus on retaining senior talent and adapting to market trends will be essential for future success.
 
+#
+
+
+#  Task - 3 | Customer Travel Data Analysis
+
+## 1. Overview
+This project focuses on analyzing customer travel data to gain insights into customer behavior, preferences, and patterns that can help a travel company optimize its services. Various aspects such as age distribution, income class, frequent flyer status, and service usage are explored. The analysis also covers churn prediction based on these factors to help the company retain its customers.
+
+We employ Python for data manipulation and visualization, using libraries like Pandas, Matplotlib, Seaborn, and WordCloud. The goal is to derive actionable insights to improve customer satisfaction and retention.
+
+---
+
+## 2. Data Source
+The dataset consists of anonymized customer data, including:
+- **Age**: Customer’s age.
+- **Frequent Flyer**: Indicates whether a customer is a frequent flyer.
+- **Income Class**: Categorization of customers based on their annual income.
+- **Services Opted**: Number of services the customer has availed.
+- **Account Synced to Social Media**: Whether a customer's account is linked to social media platforms.
+- **Booked Hotel**: Whether the customer has booked a hotel.
+- **Feedback**: Customer feedback on the company’s services.
+- **Target**: Binary indicator of whether the customer churned (1) or not (0).
+
+---
+
+## 3. Key Metrics
+Several key metrics were derived from the analysis:
+- **Age Distribution**: Understanding the age demographic of customers.
+- **Frequent Flyers vs Non-Frequent Flyers**: A comparison of the number of frequent flyers against non-frequent flyers.
+- **Income Class Distribution**: Breakdown of customers by their income classes.
+- **Services Opted**: Spread of services opted for by customers across different income groups.
+- **Churn Rate**: The rate of churn across different income classes.
+- **Social Media Synced vs Hotel Booking**: Relationship between accounts synced to social media and hotel bookings.
+
+---
+
+## 4. Insights & Recommendations
+
+### Insights:
+- **Age Distribution**: The age demographic is skewed towards younger customers, with a significant concentration between 25-40 years.
+  
+- **Frequent Flyers**: The analysis showed a nearly equal split between frequent flyers and non-frequent flyers, suggesting a balance between loyal and occasional customers.
+
+- **Income Class Distribution**: The largest proportion of customers fall into the middle-income class, while a smaller percentage belongs to the high-income class. This suggests that the company caters more to middle-income travelers.
+
+- **Services Opted**: Higher-income customers tend to opt for more services, with a clear trend of service usage increasing with income class.
+
+- **Churn Rate**: The churn rate is higher in lower-income classes, possibly due to budget constraints. Customers in the high-income category show a lower churn rate, suggesting higher brand loyalty.
+
+- **Social Media Synced vs Hotel Booking**: A positive relationship was observed between social media account syncing and hotel bookings. Customers with synced social media accounts were more likely to book hotels.
+
+### Recommendations:
+- **Target Younger Audience**: With a significant portion of the customer base aged 25-40, personalized marketing campaigns targeting this age group could improve engagement and retention.
+  
+- **Incentivize Frequent Flyers**: Create loyalty programs to incentivize non-frequent flyers to fly more often and turn them into frequent customers.
+
+- **Expand Premium Services**: Since high-income customers opt for more services, introducing premium service packages or memberships could increase revenue from this segment.
+
+- **Reduce Churn in Lower-Income Groups**: Special offers, flexible payment plans, and budget-friendly packages could reduce the churn rate in the lower-income group.
+
+- **Leverage Social Media for Bookings**: Encourage more customers to sync their accounts with social media by offering special discounts or benefits, as this has shown to positively impact hotel bookings.
+
+---
+
+## 5. Conclusion
+The analysis provided valuable insights into customer demographics, behavior, and service usage patterns. By leveraging these insights, the travel company can improve customer retention and tailor its services to different customer segments, especially focusing on churn reduction strategies for lower-income groups and expanding offerings for high-income customers. Recommendations provided can help the company optimize marketing efforts, improve customer satisfaction, and ultimately drive revenue growth.
+
+---
 
 
 Please give your valuable feedback and suggestions for further improvement.
