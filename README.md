@@ -189,6 +189,9 @@ Several key metrics were derived from the analysis:
 ## 5. Conclusion
 The analysis provided valuable insights into customer demographics, behavior, and service usage patterns. By leveraging these insights, the travel company can improve customer retention and tailor its services to different customer segments, especially focusing on churn reduction strategies for lower-income groups and expanding offerings for high-income customers. Recommendations provided can help the company optimize marketing efforts, improve customer satisfaction, and ultimately drive revenue growth.
 
+## 6. Project Link 
+
+https://colab.research.google.com/drive/1IyC2HTDOZ92nOII-K-EqztMNInWaymm3?usp=sharing
 ---
 
 
